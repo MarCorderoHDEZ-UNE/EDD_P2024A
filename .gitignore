@@ -1,0 +1,7 @@
+# Archivos específicos
+contraseñas.csv
+
+# Directorios específicos
+Demostración/archivo
+Demostración/nv1/nv2/usuario*
+!Demostración/nv1/nv2/*.py
