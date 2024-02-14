@@ -1,7 +1,6 @@
 # Archivos específicos
-contraseñas.csv
+*.png
+*.jp*g
 
 # Directorios específicos
-Demostración/archivo
-Demostración/nv1/nv2/usuario*
-!Demostración/nv1/nv2/*.py
+**/__pycache__
