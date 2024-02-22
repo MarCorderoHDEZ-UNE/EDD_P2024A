@@ -1,4 +1,4 @@
-''' Implementación de nodo versátil para listas ligadas '''
+''' Implementación de nodo versátil para listas circulares '''
 
 class Node:
     def __init__(self, val = None):
