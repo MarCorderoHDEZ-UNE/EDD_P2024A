@@ -22,7 +22,7 @@ class ListaDinamica:
         def inner(self, *args):
             val = decrease_func(self, *args)
 
-            if self.__n == self.__c // 4:
+            if self.__n and self.__n == self.__c // 4:
                 self.__resize(self.__c // 2)
             
             return val
